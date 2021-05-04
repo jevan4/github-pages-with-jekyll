@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: Your awesome title 
+author: jevan4 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  What are things I do during quarentine? I love drawing, I play piano, and I really like to code too! 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
