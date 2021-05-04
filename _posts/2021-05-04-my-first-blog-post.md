@@ -1,6 +1,6 @@
 ---
 title: "First Post!"
-date: 2021-5-4
+date: 2021-May-4
 ---
 
 Hello! Today, I went outside to get some fresh air. That's always something good to do before going on a screen all day! 
